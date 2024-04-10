@@ -23,4 +23,4 @@
 </html>
 <p>My Paper- "webographypaper.docx"</p>
 <p>My Presentation- "presentation.ppt"</p>
-Picture: <img src="Computerpic.png" />
+Picture: <img src=computerpic.png"" />
