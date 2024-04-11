@@ -4,17 +4,15 @@
 
 <p style="font: Arial bold 48px cursive;color:black;text-align:left;">Cameron Woolston</p>
 
-<p style="font: Arial bold 48px cursive;color:black;text-align:left;"CSIT100</p>
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;">CSIT100</p>
 
 <p style="font: Arial bold 48px cursive;color:black;text-align:left;">Webography Project</p>
-
-<p style="font: Arial bold 48px cursive;color:black;text-align:left;">Cameron Woolston</p>
 
 <p style="font: Arial bold 48px cursive;color:black;text-align:left;">March 27, 2024</p>
 </head>
 <body style="background-color:light blue;">
 </body>
-</html>
+<html/>
 <ul>
 <li>1. Models through Time- subtopic1.html</li>
 <li>2. Influential Figures- subtopic2.html</li>
