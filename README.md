@@ -1,0 +1,26 @@
+<html>
+<head>
+<p style="font: Arial bold 70px cursive;color:black;text-align:center;">History of Computers</p>
+
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;">Cameron Woolston</p>
+
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;"CSIT100</p>
+
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;">Webography Project</p>
+
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;">Cameron Woolston</p>
+
+<p style="font: Arial bold 48px cursive;color:black;text-align:left;">March 27, 2024</p>
+</head>
+<body style="background-color:light blue;">
+</body>
+</html>
+<ul>
+<li>1. Models through Time- subtopic1.html</li>
+<li>2. Influential Figures- subtopic2.html</li>
+<li>3. Timeline of Events- subtopic3.html</li>
+</ul>
+</html>
+<p>My Paper- "webographypaper.docx"</p>
+<p>My Presentation- "presentation.ppt"</p>
+Picture: <img src=computerpic.png"" />
